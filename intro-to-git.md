@@ -6,3 +6,8 @@
    1. Salesforce Extension Pack
    2. GitLens 
    3. Salesforce Package.xml generator
+
+
+Additional Resources:
+1. [Pro Git Book ](https://git-scm.com/book/en/v2)
+2. [Gitflow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
